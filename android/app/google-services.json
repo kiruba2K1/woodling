@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "184301478703",
+    "firebase_url": "https://woodlig-main.firebaseio.com",
+    "project_id": "woodlig-main",
+    "storage_bucket": "woodlig-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184301478703:android:b4a2efd3d6855c0d",
+        "android_client_info": {
+          "package_name": "com.woodlig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184301478703-40cfnobgn0mtsgvl62o333jb5deuca9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodlig",
+            "certificate_hash": "8e208424709a45364f1e6f6f031e916164832fb1"
+          }
+        },
+        {
+          "client_id": "184301478703-20g6p2r3nsvglm8tbhddld4gtnv1s1pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodlig",
+            "certificate_hash": "ff439fa51c5ba12b0a050d05490b64cfa35fd7ab"
+          }
+        },
+        {
+          "client_id": "184301478703-rjaebkcsigb1q5q6vspujqiu6tc3kreq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ALLIyV-4f08Np7-mezLFyYbnvpUbNU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184301478703-rjaebkcsigb1q5q6vspujqiu6tc3kreq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184301478703-d96goofm7f80k5rgnq98o0u6vbufouv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.woodlig"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

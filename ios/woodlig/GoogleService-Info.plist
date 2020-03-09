@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>393765072696-9m19cojqogeui01iirsdcugks0e0k7mj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.393765072696-9m19cojqogeui01iirsdcugks0e0k7mj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>393765072696-lbs0tp3ddpr459o1v3lncu9kdur8u5dh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFNybHwDJzaeJbKQATXF_zN6eoYVfcG7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>393765072696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.woodlig</string>
+	<key>PROJECT_ID</key>
+	<string>woodlig-5b2d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>woodlig-5b2d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:393765072696:ios:334394a1b18ee4d4b3dbcd</string>
+	<key>DATABASE_URL</key>
+	<string>https://woodlig-5b2d4.firebaseio.com</string>
+</dict>
+</plist>
